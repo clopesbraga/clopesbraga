@@ -1,7 +1,3 @@
-### Olá eu sou Cleiton 
-
-- Hoje estou trabalhando em desenvolvimento Mobile
-- Estudando Kotlin
 
 <div>
  <a href = "https://beacons.ai/clopesbraga">
