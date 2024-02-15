@@ -7,7 +7,7 @@
 </div>
 
 
-## Sistemas
+## Area de atuação
  <div style="display: inline_block"><br>
   <img align="center" alt="cleiton-android" height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg">
 </div>
