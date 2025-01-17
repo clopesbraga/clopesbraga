@@ -6,6 +6,7 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=clopesbraga&show_icons=true&theme=chartreuse-dark)
 </div>
 
+![Snake animation](https://github.com/clopesbraga/clopesbraga/blob/output/github-contribution-grid-snake.svg)
 
 ## Area de atuação
  <div style="display: inline_block"><br>
