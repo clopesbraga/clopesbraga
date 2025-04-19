@@ -6,6 +6,12 @@ Olá! Meu nome é Cleiton e sou desenvolvedor Android Nativo com mais de 5 anos 
 
 No ano seguinte, iniciei minha atuação profissional na Inmetrics, onde prestei serviços ao Banco Santander por quase 4 anos. Durante esse período, trabalhei com correção de bugs, refatoração de código e documentação de procedimentos.
 
+  
+<div> 
+ <a href = "mailto:clopesbraga@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/cleiton-lopes-braga-67929265" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
 
 ## Linguagens e Tecnologias
   
@@ -33,13 +39,6 @@ No ano seguinte, iniciei minha atuação profissional na Inmetrics, onde prestei
   <img align="center" alt="macos"   src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
 </div>
  
-  ## Contatos
-  
-<div> 
- <a href = "mailto:clopesbraga@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/cleiton-lopes-braga-67929265" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
 
  ## Estaticas
 
