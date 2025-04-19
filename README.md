@@ -14,8 +14,13 @@ No ano seguinte, iniciei minha atuação profissional na Inmetrics, onde prestei
   <img align="center" alt="cleiton-Kotlin" height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"> 
   <img align="center" alt="cleiton-Jetpack" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" />
   <img align="center" alt="cleiton-Git" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img align="center" alt="cleiton-Gitlab" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" />
+  <img align="center" alt="cleiton-Gitlab" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" /> 
+  <img align="center" alt="cleiton-Github" height="70" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
   <img align="center" alt="cleiton-Sqlite" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" />
+  <img align="center" alt="cleiton-Junit" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain-wordmark.svg" />
+  <img align="center" alt="cleiton-Junit" height="70" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain-wordmark.svg" />
+          
+          
 </div>
 
 
