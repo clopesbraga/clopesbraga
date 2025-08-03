@@ -6,6 +6,8 @@ Olá! Meu nome é Cleiton e sou desenvolvedor Android Nativo com mais de 5 anos 
 
 No ano seguinte, iniciei minha atuação profissional na Inmetrics, onde prestei serviços ao Banco Santander por quase 4 anos. Durante esse período, trabalhei com correção de bugs, refatoração de código e documentação de procedimentos.
 
+Atualmente voltei no meu projeto Afim De Feira agora refazendo o meu projeto afim de feira  para ajudar as pessoas da cidade de São Paulo e região Metropolitana a encontrar as feiras livres mais próximas.
+
   
 <div> 
  <a href = "mailto:clopesbraga@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
