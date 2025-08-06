@@ -6,7 +6,7 @@ Olá! Meu nome é Cleiton e sou desenvolvedor Android Nativo com mais de 5 anos 
 
 No ano seguinte, iniciei minha atuação profissional na Inmetrics, onde prestei serviços ao Banco Santander por quase 4 anos. Durante esse período, trabalhei com correção de bugs, refatoração de código e documentação de procedimentos.
 
-Atualmente voltei no meu projeto Afim De Feira agora refazendo ele para ajudar as pessoas da cidade de São Paulo e região Metropolitana a encontrar as feiras livres mais próximas.
+Atualmente eu refiz o meu projeto Afim De Feira e  agora  ele esta disponível na playstore para ajudar as pessoas da cidade de São Paulo e região Metropolitana a encontrar as feiras livres mais próximas.
 
   
 <div> 
